@@ -1,0 +1,21 @@
+.jumbotron
+
+ {
+  /* Choisis la hauteur ici */
+  height: 500px;
+  text-align: center;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("pexels-surf2.jpeg");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fa-heart, .fa-users, .fa-money-bill-wave-alt
+{color:pink;
+
+
+ }
